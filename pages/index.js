@@ -15,6 +15,7 @@ export default function Home() {
         heading="Captur Photography"
         message="I capture moments in nature and keep them alive."
       />
+
       <Slider slides={SliderData} />
     </div>
   );
